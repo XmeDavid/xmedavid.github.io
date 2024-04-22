@@ -1,5 +1,5 @@
 # David Batista
-<img src="./mail.png" style="zoom:100%;" />[mail@davidsbatista.com](mailto:mail@davidsbatista.com)  <img src="./phone.png" style="zoom:80%;" /> [+351 915 536 724](+351915536724).  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="zoom:33%;" /> [linkedin](https://linkedin.com/in/david-simoes-batista/)  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="zoom:5%;" />[github](https://github.com/XmeDavid)
+<img src="https://utfs.io/f/d64c6860-528c-42d1-92ad-06ac5fa2526f-1zo3b.png" style="zoom:100%;" />[mail@davidsbatista.com](mailto:mail@davidsbatista.com)  <img src="https://utfs.io/f/964b4faa-b729-41e7-9485-ea92ff30facd-1rhq3y.png" style="zoom:80%;" /> [+351 915 536 724](+351915536724).  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="zoom:33%;" /> [linkedin](https://linkedin.com/in/david-simoes-batista/)  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="zoom:5%;" />[github](https://github.com/XmeDavid)
 
 # David Batista
 

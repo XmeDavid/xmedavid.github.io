@@ -1,5 +1,5 @@
 # David Batista
-[mail@davidsbatista.com](mailto:mail@davidsbatista.com) [+351 915 536 724](+351915536724) [linkedin](https://linkedin.com/in/david-simoes-batista/) [github](https://github.com/XmeDavid)
+<img src="/Users/davidwebtales/dev/cv/mail.png" style="zoom:100%;" />[mail@davidsbatista.com](mailto:mail@davidsbatista.com)  <img src="/Users/davidwebtales/dev/cv/phone.png" style="zoom:80%;" /> [+351 915 536 724](+351915536724).  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="zoom:33%;" /> [linkedin](https://linkedin.com/in/david-simoes-batista/)  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="zoom:5%;" />[github](https://github.com/XmeDavid)
 
 # David Batista
 
@@ -17,25 +17,17 @@ _Typescript, Javascript, Node.js, GrahpQL, Apollo, Vue.js, AWS, Algolia, OpenSea
 **_Feb 2022 - Jul 2022_**
 Developed a bespoke support management application for DevBrain during my bachelor's capstone, facilitating ticket registration, hour logging, and contract management across mobile and web platforms.
 ###### Tech
-_Flutter, Laravel_
+_Flutter, PHP, Laravel, MySQL_
 
 
 ## Education
 
 ### Master's in Computer Engineering – Mobile Computing
-##### @Polytechnic University of Leiria
- - 2022 - 2024
-
+##### _2022 - 2024_ @ Polytechnic University of Leiria
 ### Bachelor’s in Computer Engineering
-##### @Polytechnic University of Leiria
- - 2018 - 2022
-
+##### _2018 - 2022_ @ Polytechnic University of Leiria
 ### Computer Management Technician
-##### @Escola Profissional de Leiria
- - 2015 - 2018
-
-
-
+##### _2015 - 2018_ @ Escola Profissional de Leiria
 ## Projects
 
 ### DRIVLAB

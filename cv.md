@@ -1,5 +1,5 @@
 # David Batista
-<img src="/Users/davidwebtales/dev/cv/mail.png" style="zoom:100%;" />[mail@davidsbatista.com](mailto:mail@davidsbatista.com)  <img src="/Users/davidwebtales/dev/cv/phone.png" style="zoom:80%;" /> [+351 915 536 724](+351915536724).  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="zoom:33%;" /> [linkedin](https://linkedin.com/in/david-simoes-batista/)  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="zoom:5%;" />[github](https://github.com/XmeDavid)
+<img src="./mail.png" style="zoom:100%;" />[mail@davidsbatista.com](mailto:mail@davidsbatista.com)  <img src="./phone.png" style="zoom:80%;" /> [+351 915 536 724](+351915536724).  <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="zoom:33%;" /> [linkedin](https://linkedin.com/in/david-simoes-batista/)  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" style="zoom:5%;" />[github](https://github.com/XmeDavid)
 
 # David Batista
 
